@@ -17,7 +17,6 @@ Based on all this past information, you want to build a model which will predict
 
 **Dataset**
 Dataset is provided here,also you can find it kaggle.
-
 [https://www.kaggle.com/dileep070/logisticregression-telecomcustomer-churmprediction]
 
 
